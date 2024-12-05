@@ -10,7 +10,7 @@ def calculate_democratic_percentage(file_path):
     global third_party_votes
     third_party_votes = 0
 
-    with open(file_path, mode='r', newline='', encoding='utf-8') as file:
+    with open(file_path, mode='r', newline='', encoding='utf-8-sig') as file:
         reader = csv.DictReader(file)
         for row in reader:
             if not row['Precinct'].startswith('SEA ') or row['Race'] != 'President and Vice President of the United States President and Vice President of the United States':
@@ -28,7 +28,7 @@ def calculate_democratic_percentage(file_path):
     third_party_percentage = (third_party_votes / total_votes) * 100
     return democratic_percentage, republican_percentage, third_party_percentage
 
-file_path = 'election-night-results-report.csv'
+file_path = 'final-results-report.csv'
 democratic_percentage, republican_percentage, third_party_percentage = calculate_democratic_percentage(file_path)
 print(f"Total votes: {total_votes}")
 print(f"Democratic votes: {democratic_votes}")
