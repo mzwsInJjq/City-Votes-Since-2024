@@ -1,5 +1,5 @@
-# Seattle-Votes
-Count the presidential election votes within the City of Seattle
+# Seattle-NYC-Votes
+Count the presidential election votes within the City of Seattle/New York
 
 ## Data Source
 ### 1. count/ 
