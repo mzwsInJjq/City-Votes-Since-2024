@@ -29,7 +29,7 @@ def calculate_voting_percentages(file_path):
             votes['republican_percentage'] = (votes['republican'] / total_votes) * 100
             votes['third_party_percentage'] = (votes['third_party'] / total_votes) * 100
         else:
-            votes['democratic_percentage'] = 0
+            votes['democratic_percentage'] = -1
             votes['republican_percentage'] = 0
             votes['third_party_percentage'] = 0
     
@@ -55,8 +55,10 @@ def get_color(democratic_percentage):
         return '#FF6666'
     elif democratic_percentage >= 10:
         return '#FF3333'
-    else:
+    elif democratic_percentage >= 0:
         return '#FF0000'  # Deep red
+    else:
+        return '#FFFFFF'  # White
 
 # Load the shapefile
 shapefile_path = r'C:\Users\Chen\Downloads\Voting_Districts_of_King_County___votdst_area\Voting_Districts_of_King_County___votdst_area.shp'
