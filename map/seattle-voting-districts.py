@@ -1,3 +1,6 @@
+# Data Source1: https://cdn.kingcounty.gov/-/media/king-county/depts/elections/results/2024/11/final-results-report.csv
+# Data Source2: https://gis-kingcounty.opendata.arcgis.com/datasets/a9bcf8b7e83a402aaf68479c244b3131_418/
+
 import geopandas as gpd
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
