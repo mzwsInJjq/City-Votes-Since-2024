@@ -1,7 +1,7 @@
-# Seattle-NYC-Votes
-Count the presidential election votes within the City of Seattle/New York
+# City-Votes
+[2024] Count the presidential election votes within the City of Seattle/New York
 
-## Data Source
+## Data Source (Seattle)
 ### 1. count/ 
 **November 2024 General Election Results - Final precinct level election results - Comma delimited file**
 ([Download Link](https://cdn.kingcounty.gov/-/media/king-county/depts/elections/results/2024/11/final-results-report.csv))
