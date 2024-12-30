@@ -56,6 +56,13 @@ miami_gdf = gdf[gdf['ID'].isin(miami_districts)].copy()
 # Add Democratic vote percentages
 miami_gdf['dem_pct'] = miami_gdf['ID'].map(precinct_percentages)
 
+# Group by precinct and sum total votes
+precinct_totals = election_df.groupby('Precinct Name')['Total Votes'].sum()
+# Convert precinct names to numbers and identify those with 0 total votes
+zero_vote_precincts = precinct_totals[precinct_totals == 0].index.str.replace('PRECINCT ', '').astype(float).tolist()
+# Set dem_pct to -1 for those precincts
+miami_gdf.loc[miami_gdf['ID'].isin(zero_vote_precincts), 'dem_pct'] = -1
+
 # Color mapping function
 def get_color(dem_percentage):
     if pd.isna(dem_percentage):
@@ -76,8 +83,10 @@ def get_color(dem_percentage):
         return '#FF6666'
     elif dem_percentage >= 10:
         return '#FF3333'
-    else:
+    elif dem_percentage >= 0:
         return '#FF0000'  # Deep red
+    else:
+        return '#FFFFFF'  # White
 
 # Apply colors
 miami_gdf['color'] = miami_gdf['dem_pct'].apply(get_color)
