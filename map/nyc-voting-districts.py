@@ -17,7 +17,7 @@ def calculate_voting_percentages(file_path):
                 tally = int(row['Tally'])
             except ValueError:
                 tally = int(''.join(row['Tally'].split(',')))  # Remove commas and convert to integer
-            precinct = float(row['AD'] + row['ED'])  # Prepend "23" and convert to float
+            precinct = float(row['AD'] + row['ED'])  # Prepend AD and convert to float
             if precinct not in precinct_votes:
                 precinct_votes[precinct] = {'democratic': 0, 'republican': 0, 'third_party': 0}
             if row['Unit Name'] in ['Kamala D. Harris / Tim Walz (Democratic)', 'Kamala D. Harris / Tim Walz (Working Families)']:
