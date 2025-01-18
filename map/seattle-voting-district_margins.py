@@ -101,7 +101,7 @@ filtered_gdf['color'] = filtered_gdf['NAME'].apply(lambda x: get_margin_color(pr
 
 # Plot the filtered shapefile with colors
 fig, ax = plt.subplots(figsize=(12, 12))  # Increase figure size
-filtered_gdf.plot(ax=ax, color=filtered_gdf['color'], edgecolor='black', linewidth=0.2)  # Thinner boundaries
+filtered_gdf.plot(ax=ax, color=filtered_gdf['color'], edgecolor='white', linewidth=0.075)
 plt.title('Seattle Voting Districts - 2024 Presidential Election Margins')
 ax.axis('off')
 
@@ -128,5 +128,5 @@ plt.show()
 # Print the name of the precinct with the highest/lowest Democratic margin
 max_margin_precinct = max(precinct_votes, key=lambda x: precinct_votes[x]['democratic_percentage'] - precinct_votes[x]['republican_percentage'])
 min_margin_precinct = min(precinct_votes, key=lambda x: precinct_votes[x]['democratic_percentage'] - precinct_votes[x]['republican_percentage'] if precinct_votes[x]['democratic_percentage'] - precinct_votes[x]['republican_percentage'] > -100 else inf)
-print(f'Highest Democratic Margin Precinct: {max_margin_precinct} ({precinct_votes[max_margin_precinct]["democratic_percentage"]:.2f}% - {precinct_votes[max_margin_precinct]["republican_percentage"]:.2f}%)')
-print(f'Lowest Democratic Margin Precinct: {min_margin_precinct} ({precinct_votes[min_margin_precinct]["democratic_percentage"]:.2f}% - {precinct_votes[min_margin_precinct]["republican_percentage"]:.2f}%)')
+print(f'Total Votes in {max_margin_precinct}: {int(sum(precinct_votes[max_margin_precinct].values()))} ({precinct_votes[max_margin_precinct]["democratic_percentage"]:.2f}% - {precinct_votes[max_margin_precinct]["republican_percentage"]:.2f}%)')
+print(f'Total Votes in {min_margin_precinct}: {int(sum(precinct_votes[min_margin_precinct].values()))} ({precinct_votes[min_margin_precinct]["democratic_percentage"]:.2f}% - {precinct_votes[min_margin_precinct]["republican_percentage"]:.2f}%)')
