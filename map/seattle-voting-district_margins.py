@@ -101,7 +101,7 @@ filtered_gdf['color'] = filtered_gdf['NAME'].apply(lambda x: get_margin_color(pr
 
 # Plot the filtered shapefile with colors
 fig, ax = plt.subplots(figsize=(12, 12))  # Increase figure size
-filtered_gdf.plot(ax=ax, color=filtered_gdf['color'], edgecolor='white', linewidth=0.075)
+filtered_gdf.plot(ax=ax, color=filtered_gdf['color'], edgecolor='white', linewidth=0.1)
 plt.title('Seattle Voting Districts - 2024 Presidential Election Margins')
 ax.axis('off')
 
