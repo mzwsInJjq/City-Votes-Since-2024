@@ -124,9 +124,3 @@ cbar.set_label('Democratic Margin %')
 # Save the plot as a vector PDF
 plt.savefig('seattle_voting_districts_margins_2024.pdf', format='pdf', bbox_inches='tight')
 plt.show()
-
-# Print the name of the precinct with the highest/lowest Democratic margin
-max_margin_precinct = max(precinct_votes, key=lambda x: precinct_votes[x]['democratic_percentage'] - precinct_votes[x]['republican_percentage'])
-min_margin_precinct = min(precinct_votes, key=lambda x: precinct_votes[x]['democratic_percentage'] - precinct_votes[x]['republican_percentage'] if precinct_votes[x]['democratic_percentage'] - precinct_votes[x]['republican_percentage'] > -100 else inf)
-print(f'Total Votes in {max_margin_precinct}: {int(sum(precinct_votes[max_margin_precinct].values()))} ({precinct_votes[max_margin_precinct]["democratic_percentage"]:.2f}% - {precinct_votes[max_margin_precinct]["republican_percentage"]:.2f}%)')
-print(f'Total Votes in {min_margin_precinct}: {int(sum(precinct_votes[min_margin_precinct].values()))} ({precinct_votes[min_margin_precinct]["democratic_percentage"]:.2f}% - {precinct_votes[min_margin_precinct]["republican_percentage"]:.2f}%)')
