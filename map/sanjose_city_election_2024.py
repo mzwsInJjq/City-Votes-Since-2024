@@ -2,6 +2,29 @@ import pandas as pd
 import geopandas as gpd
 import matplotlib.pyplot as plt
 from matplotlib.colors import TwoSlopeNorm
+import requests
+from io import BytesIO
+
+# URL of the XLS file
+url = "https://gis.sanjoseca.gov/apps/redistricting/PDFs/SanJoseDraftPlanFinal_VotingPrecincts_122221.xlsx"
+
+# Download the file
+response = requests.get(url)
+if response.status_code != 200:
+    raise Exception("Failed to download the XLS file")
+
+# Load the Excel file into a DataFrame
+df = pd.read_excel(BytesIO(response.content))
+
+# Extract the precinct IDs from the column (assumed to be named "Precinct")
+# Convert the IDs to string and strip any whitespace
+precinct_ids = df['Precinct'].astype(str).str.strip().tolist()
+
+# Modify each precinct ID by prepending '06085-00'
+precincts = [f"06085-00{pid}" for pid in precinct_ids]
+
+# Output the resulting list
+# print("precincts =", precincts)
 
 # Load the data
 gdf = gpd.read_file(r"C:\Users\Chen\Downloads\CA-precincts-with-results.geojson")
