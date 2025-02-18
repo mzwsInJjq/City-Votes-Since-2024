@@ -1,5 +1,5 @@
 # City-Votes
-[2024] Count the presidential election votes within some US cities
+[2024] Count/Map the presidential election votes within some US cities
 ## Data Source
 ### 1. count/ 
 **November 2024 General Election Results - Final precinct level election results - Comma delimited file**
