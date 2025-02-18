@@ -1,5 +1,5 @@
 # City-Votes
-[2024] Count/Map the presidential election votes within some US cities
+[2024] US Presidential Election Result by Precinct of Seattle, New York, Miami, Chicago, Portland, Las Vegas, Minneapolis, Denver, Philadelphia, SF, and San Diego
 ## Data Source
 ### 1. count/ 
 **November 2024 General Election Results - Final precinct level election results - Comma delimited file**
