@@ -1,5 +1,21 @@
 # City-Votes
-[2024] US Presidential Election Result by Precinct of Seattle, New York, Miami, Chicago, Portland, Las Vegas, Minneapolis, Denver, Philadelphia, SF, San Diego, and San Jose
+[2024] US Presidential Election Result by Precinct
+
+## City List
+1. Seattle, WA
+2. New York, NY
+3. Miami, FL
+4. Chicago, IL
+5. Portland, OR
+6. Las Vegas, NV
+7. Minneapolis, MN
+8. Denver, CO
+9. Philadelphia, PA
+10. San Francisco, CA
+11. San Diego, CA
+12. San Jose, CA
+13. Madison, WI
+
 ## Data Source
 ### 1. count/ 
 **November 2024 General Election Results - Final precinct level election results - Comma delimited file**
