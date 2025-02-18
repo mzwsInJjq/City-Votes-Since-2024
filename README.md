@@ -16,7 +16,7 @@
 12. San Jose, CA
 13. Madison, WI
 
-## Data Source
+## Data Sources
 ### 1. count/ 
 **November 2024 General Election Results - Final precinct level election results - Comma delimited file**
 ([Download Link](https://cdn.kingcounty.gov/-/media/king-county/depts/elections/results/2024/11/final-results-report.csv))
