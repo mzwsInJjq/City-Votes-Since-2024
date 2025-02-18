@@ -30,10 +30,8 @@ precincts = [f"06085-00{pid}" for pid in precinct_ids]
 gdf = gpd.read_file(r"C:\Users\Chen\Downloads\CA-precincts-with-results.geojson")
 
 # Filter precincts by gdf['GEOID']
-gdf = gdf[gdf['GEOID'].str.startswith('06085')]
-print(list(gdf['GEOID'].unique()))
+gdf = gdf[gdf['GEOID'].isin(precincts)]
 
-"""
 # Define the bbox for San Jose
 bbox = (-122.0460405, 37.1231596, -121.5858438, 37.4691477)
 
@@ -67,4 +65,3 @@ sum_votes_total = gdf['votes_total'].sum()
 print(f"Democratic % for San Jose: {100 * sum_votes_dem/sum_votes_total:.2f}%")
 print(f"Republican % for San Jose: {100 * sum_votes_rep/sum_votes_total:.2f}%")
 print(f"Third Party % for San Jose: {100 * sum_votes_third_party/sum_votes_total:.2f}%")
-"""
