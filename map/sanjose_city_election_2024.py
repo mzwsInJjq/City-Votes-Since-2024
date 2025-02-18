@@ -21,7 +21,7 @@ df = pd.read_excel(BytesIO(response.content))
 precinct_ids = df['Precinct'].astype(str).str.strip().tolist()
 
 # Modify each precinct ID by prepending '06085-00'
-precincts = [f"06085-00{pid}" for pid in precinct_ids]
+precincts = [f"06085-000{pid}" for pid in precinct_ids]
 
 # Output the resulting list
 # print("precincts =", precincts)
