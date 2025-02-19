@@ -6,7 +6,7 @@
 2. New York, NY
 3. Miami, FL
 4. Chicago, IL
-5. Portland, OR
+5. Portland, OR (Approx. Boundary)
 6. Las Vegas, NV
 7. Minneapolis, MN
 8. Denver, CO
@@ -15,6 +15,7 @@
 11. San Diego, CA
 12. San Jose, CA
 13. Madison, WI
+14. Atlanta, GA (Approx. Boundary)
 
 ## Data Sources
 ### 1. count/ 
