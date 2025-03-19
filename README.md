@@ -28,3 +28,5 @@
 ([Download Link](https://gis-kingcounty.opendata.arcgis.com/datasets/a9bcf8b7e83a402aaf68479c244b3131_418/))
 
 "2024 Precinct-Level Election Results." New York Times, www.nytimes.com/interactive/2025/us/elections/2024-election-map-precinct-results.html. Accessed [2/11/2025].
+
+### 3. Data Collected by ([@21MetcalfJ](https://github.com/21MetcalfJ/2024Precincts))
