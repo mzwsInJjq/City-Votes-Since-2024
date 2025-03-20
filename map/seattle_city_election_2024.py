@@ -1,5 +1,5 @@
-# King County with Natural Shoreline for Puget Sound and Lake Washington
-# https://gis-kingcounty.opendata.arcgis.com/datasets/0d91258e15c1457cb4126fbc27507a08_123
+# 2023 TIGER/Line +
+# https://data2.nhgis.org/main
 
 import pandas as pd
 import geopandas as gpd
@@ -8,11 +8,13 @@ from matplotlib.colors import TwoSlopeNorm
 
 # Load the data
 gdf = gpd.read_file(r"C:\Users\Chen\Downloads\WA-precincts-with-results.geojson")
-king_county = gpd.read_file(r"C:\Users\Chen\Downloads\King_County_with_Natural_Shoreline_for_Puget_Sound_and_Lake_Washington___kingsh_area.geojson")
+df = gpd.read_file(r"C:\Users\Chen\Downloads\nhgis0001_shapefile_tl2023_us_state_2023\US_state_2023.shp")
+df = df[df['STATEFP'] == '53']
+df = df.to_crs("epsg:4326")
 
 # Filter precincts by gdf['GEOID']
 gdf = gdf[gdf['GEOID'].str.startswith('53033-SEA ')]
-gdf = gpd.overlay(gdf, king_county, how='intersection', keep_geom_type=False)
+gdf = gpd.overlay(gdf, df, how='intersection', keep_geom_type=False)
 
 # Define the bbox for Seattle
 bbox = (-122.4596960, 47.4810022, -122.2244330, 47.7341503)
