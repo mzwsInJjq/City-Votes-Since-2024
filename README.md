@@ -1,5 +1,5 @@
 # City-Votes
-[2024] US Presidential Election Result by Precinct
+[2024] US Presidential Election Result by Precinct (for exploratory purposes)
 
 ## City List
 1. Seattle, WA
