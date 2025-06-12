@@ -1,7 +1,7 @@
 # City-Votes-Since-2024
 [2024-] US Local / Presidential Election Result by Precinct (for exploratory purposes)
 
-## City List
+## 1) 2024 Presidential Election
 1. Seattle, WA
 2. New York, NY
 3. Miami, FL
@@ -18,15 +18,17 @@
 14. Atlanta, GA (Approx. Boundary)
 15. Pittsburgh, PA
 
-## Data Sources
-### 1. count/ 
-**November 2024 General Election Results - Final precinct level election results - Comma delimited file**
+### Data Sources
+#### 1. November 2024 General Election Results - Final precinct level election results - Comma delimited file
 ([Download Link](https://cdn.kingcounty.gov/-/media/king-county/depts/elections/results/2024/11/final-results-report.csv))
 
-### 2. map/ 
-**Voting Districts of King County / votdst area - Shapefile**
+#### 2. Voting Districts of King County / votdst area - Shapefile
 ([Download Link](https://gis-kingcounty.opendata.arcgis.com/datasets/a9bcf8b7e83a402aaf68479c244b3131_418/))
 
 "2024 Precinct-Level Election Results." New York Times, www.nytimes.com/interactive/2025/us/elections/2024-election-map-precinct-results.html. Accessed [2/11/2025].
 
-### 3. Data Collected by ([@21MetcalfJ](https://github.com/21MetcalfJ/2024Precincts))
+#### 3. Data Collected by ([@21MetcalfJ](https://github.com/21MetcalfJ/2024Precincts))
+
+## 2) 2025 Local Election
+1. Seattle (Seattle City Proposition Nos. 1A and 1B)
+
