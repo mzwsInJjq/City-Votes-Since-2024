@@ -24,7 +24,7 @@ gdf = gdf.cx[bbox[0]:bbox[2], bbox[1]:bbox[3]]
 
 # Create a color map
 norm = TwoSlopeNorm(vmin=-1, vcenter=0, vmax=1)
-cmap = plt.get_cmap('bwr_r')  # '_r' reverses the color map
+cmap = plt.get_cmap('seismic_r')  # '_r' reverses the color map
 
 # Plot the map
 fig, ax = plt.subplots(1, 1, figsize=(15, 15))
