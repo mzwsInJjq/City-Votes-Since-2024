@@ -98,13 +98,4 @@ Vote Percentages by City/Town in King County (sorted by Democratic %)
 Total cities/towns analyzed: 94
 
 Highest Democratic %: SEA (87.00238%)
-91. SPIDER D: 41.96891% R: 54.66321% T: 3.36788%
-91. SPIDER D: 41.96891% R: 54.66321% T: 3.36788%
-92. SHADOW D: 41.69884% R: 50.77220% T: 7.52896%
-93. HOLM D: 39.13043% R: 57.14286% T: 3.72671%
-94. GREEN D: 34.73541% R: 61.60109% T: 3.66350%
-
-Total cities/towns analyzed: 94
-
-Highest Democratic %: SEA (87.00238%)
 Lowest Democratic %: GREEN (34.73541%)
