@@ -1,0 +1,261 @@
+Seattle Voting Results by Race
+================================================================================
+
+1. State of Washington Attorney General
+---------------------------------------
+    1. Nick Brown                               344,853 ( 86.11%)
+    2. Pete Serrano                             55,242 ( 13.79%)
+    3. Write-in                                    370 (  0.09%)
+   Total votes: 400,465
+
+2. Court of Appeals, Division No. 1, District No. 1 Judge Position No. 4
+------------------------------------------------------------------------
+    1. Leonard J. Feldman                       271,359 ( 98.62%)
+    2. Write-in                                  3,805 (  1.38%)
+   Total votes: 275,164
+
+3. State Supreme Court Justice Position No. 8
+---------------------------------------------
+    1. Steve Gonzalez                           277,882 ( 98.55%)
+    2. Write-in                                  4,083 (  1.45%)
+   Total votes: 281,965
+
+4. State of Washington State Treasurer
+--------------------------------------
+    1. Mike Pellicciotti                        349,422 ( 87.66%)
+    2. Sharon Hanek                             48,908 ( 12.27%)
+    3. Write-in                                    276 (  0.07%)
+   Total votes: 398,606
+
+5. City of Seattle Proposition No. 1
+------------------------------------
+    1. Yes                                      263,581 ( 66.51%)
+    2. No                                       132,718 ( 33.49%)
+   Total votes: 396,299
+
+6. State of Washington Initiative Measure No. 2117
+--------------------------------------------------
+    1. No                                       355,128 ( 87.79%)
+    2. Yes                                      49,402 ( 12.21%)
+   Total votes: 404,530
+
+7. State of Washington Governor
+-------------------------------
+    1. Bob Ferguson                             355,874 ( 86.67%)
+    2. Dave Reichert                            53,806 ( 13.10%)
+    3. Write-in                                    919 (  0.22%)
+   Total votes: 410,599
+
+8. State of Washington Lieutenant Governor
+------------------------------------------
+    1. Denny Heck                               351,516 ( 87.22%)
+    2. Dan Matthews                             50,983 ( 12.65%)
+    3. Write-in                                    538 (  0.13%)
+   Total votes: 403,037
+
+9. State of Washington Superintendent of Public Instruction
+-----------------------------------------------------------
+    1. Chris Reykdal                            281,310 ( 79.35%)
+    2. David Olson                              71,525 ( 20.17%)
+    3. Write-in                                  1,700 (  0.48%)
+   Total votes: 354,535
+
+10. State of Washington Initiative Measure No. 2124
+--------------------------------------------------
+    1. No                                       290,632 ( 72.56%)
+    2. Yes                                      109,888 ( 27.44%)
+   Total votes: 400,520
+
+11. State of Washington Insurance Commissioner
+---------------------------------------------
+    1. Patty Kuderer                            342,837 ( 87.57%)
+    2. Phil Fortunato                           48,254 ( 12.33%)
+    3. Write-in                                    405 (  0.10%)
+   Total votes: 391,496
+
+12. State of Washington Commissioner of Public Lands
+---------------------------------------------------
+    1. Dave Upthegrove                          323,345 ( 81.18%)
+    2. Jaime Herrera Beutler                    74,491 ( 18.70%)
+    3. Write-in                                    489 (  0.12%)
+   Total votes: 398,325
+
+13. Legislative District No. 34 Representative Position No. 2
+------------------------------------------------------------
+    1. Joe Fitzgibbon                           52,094 ( 85.51%)
+    2. Jolie Lansdowne                           8,762 ( 14.38%)
+    3. Write-in                                     63 (  0.10%)
+   Total votes: 60,919
+
+14. Legislative District No. 34 Representative Position No. 1
+------------------------------------------------------------
+    1. Emily Alvarado                           52,770 ( 86.75%)
+    2. Kimberly M. Cloud                         7,958 ( 13.08%)
+    3. Write-in                                    101 (  0.17%)
+   Total votes: 60,829
+
+15. State Supreme Court Justice Position No. 2
+---------------------------------------------
+    1. Sal Mungia                               284,736 ( 80.05%)
+    2. Dave Larson                              69,903 ( 19.65%)
+    3. Write-in                                  1,057 (  0.30%)
+   Total votes: 355,696
+
+16. State of Washington State Auditor
+------------------------------------
+    1. Pat (Patrice) McCarthy                   351,593 ( 88.63%)
+    2. Matt Hawkins                             44,763 ( 11.28%)
+    3. Write-in                                    326 (  0.08%)
+   Total votes: 396,682
+
+17. State Supreme Court Justice Position No. 9
+---------------------------------------------
+    1. Sheryl Gordon McCloud                    275,797 ( 98.56%)
+    2. Write-in                                  4,020 (  1.44%)
+   Total votes: 279,817
+
+18. President and Vice President of the United States President and Vice President of the United States
+--------------------------------------------------------------------------------
+    1. Kamala D. Harris / Tim Walz              362,545 ( 87.00%)
+    2. Donald J. Trump / JD Vance               37,281 (  8.95%)
+    3. Jill Stein / Rudolph Ware                 5,762 (  1.38%)
+    4. Robert F. Kennedy Jr. / Nicole Shanahan   2,688 (  0.65%)
+    5. Claudia De la Cruz / Karina Garcia        2,542 (  0.61%)
+    6. Write-in                                  2,451 (  0.59%)
+    7. Cornel West / Melina Abdullah             1,642 (  0.39%)
+    8. Chase Oliver / Mike ter Maat              1,364 (  0.33%)
+    9. Shiva Ayyadurai / Crystal Ellis             183 (  0.04%)
+   10. Joseph Kishore / Jerry White                132 (  0.03%)
+   11. Rachele Fruit / Dennis Richter              117 (  0.03%)
+   Total votes: 416,707
+
+19. State of Washington Initiative Measure No. 2066
+--------------------------------------------------
+    1. No                                       292,460 ( 72.85%)
+    2. Yes                                      108,985 ( 27.15%)
+   Total votes: 401,445
+
+20. Court of Appeals, Division No. 1, District No. 1 Judge Position No. 7
+------------------------------------------------------------------------
+    1. Janet S. Chung                           270,903 ( 98.61%)
+    2. Write-in                                  3,820 (  1.39%)
+   Total votes: 274,723
+
+21. Congressional District No. 7 United States Representative
+------------------------------------------------------------
+    1. Pramila Jayapal                          291,668 ( 86.14%)
+    2. Dan Alexander                            45,803 ( 13.53%)
+    3. Write-in                                  1,112 (  0.33%)
+   Total votes: 338,583
+
+22. United States Senator United States Senator
+----------------------------------------------
+    1. Maria Cantwell                           361,363 ( 88.45%)
+    2. Dr Raul Garcia                           45,740 ( 11.20%)
+    3. Write-in                                  1,443 (  0.35%)
+   Total votes: 408,546
+
+23. King County Superior Court Judge Position No. 41
+---------------------------------------------------
+    1. Paul M. Crisalli                         283,923 ( 84.01%)
+    2. Andrew C. Schach                         52,472 ( 15.53%)
+    3. Write-in                                  1,557 (  0.46%)
+   Total votes: 337,952
+
+24. State of Washington Secretary of State
+-----------------------------------------
+    1. Steve Hobbs                              359,848 ( 89.67%)
+    2. Dale Whitaker                            41,028 ( 10.22%)
+    3. Write-in                                    444 (  0.11%)
+   Total votes: 401,320
+
+25. State of Washington Initiative Measure No. 2109
+--------------------------------------------------
+    1. No                                       344,659 ( 84.72%)
+    2. Yes                                      62,167 ( 15.28%)
+   Total votes: 406,826
+
+26. City of Seattle Council Position No. 8
+-----------------------------------------
+    1. Alexis Mercedes Rinck                    215,642 ( 58.24%)
+    2. Tanya Woo                                153,146 ( 41.36%)
+    3. Write-in                                  1,491 (  0.40%)
+   Total votes: 370,279
+
+27. Congressional District No. 9 United States Representative
+------------------------------------------------------------
+    1. Adam Smith                               32,162 ( 54.77%)
+    2. Melissa Chaudhry                         26,188 ( 44.60%)
+    3. Write-in                                    367 (  0.63%)
+   Total votes: 58,717
+
+28. Legislative District No. 37 Representative Position No. 2
+------------------------------------------------------------
+    1. Chipalo Street                           59,894 ( 91.63%)
+    2. Matt McCally                              5,168 (  7.91%)
+    3. Write-in                                    304 (  0.47%)
+   Total votes: 65,366
+
+29. Legislative District No. 37 Representative Position No. 1
+------------------------------------------------------------
+    1. Sharon Tomiko Santos                     57,424 ( 98.37%)
+    2. Write-in                                    952 (  1.63%)
+   Total votes: 58,376
+
+30. Legislative District No. 36 Representative Position No. 1
+------------------------------------------------------------
+    1. Julia Grant Reed                         77,616 ( 98.53%)
+    2. Write-in                                  1,157 (  1.47%)
+   Total votes: 78,773
+
+31. Legislative District No. 36 Representative Position No. 2
+------------------------------------------------------------
+    1. Liz Berry                                82,201 ( 88.78%)
+    2. Victoria Palmer                          10,277 ( 11.10%)
+    3. Write-in                                    113 (  0.12%)
+   Total votes: 92,591
+
+32. Legislative District No. 43 Representative Position No. 2
+------------------------------------------------------------
+    1. Shaun Scott                              49,990 ( 68.43%)
+    2. Andrea Suarez                            22,506 ( 30.81%)
+    3. Write-in                                    554 (  0.76%)
+   Total votes: 73,050
+
+33. Legislative District No. 43 Representative Position No. 1
+------------------------------------------------------------
+    1. Nicole Macri                             65,596 ( 98.48%)
+    2. Write-in                                  1,015 (  1.52%)
+   Total votes: 66,611
+
+34. Legislative District No. 46 Representative Position No. 1
+------------------------------------------------------------
+    1. Gerry Pollet                             72,727 ( 87.42%)
+    2. Beth Daranciang                          10,353 ( 12.44%)
+    3. Write-in                                    117 (  0.14%)
+   Total votes: 83,197
+
+35. Legislative District No. 46 Representative Position No. 2
+------------------------------------------------------------
+    1. Darya Farivar                            70,952 ( 86.49%)
+    2. Simone Barron                            10,832 ( 13.20%)
+    3. Write-in                                    248 (  0.30%)
+   Total votes: 82,032
+
+36. Legislative District No. 32 Representative Position No. 2
+------------------------------------------------------------
+    1. Lauren Davis                              8,233 ( 84.02%)
+    2. Lori Theis                                1,543 ( 15.75%)
+    3. Write-in                                     23 (  0.23%)
+   Total votes: 9,799
+
+37. Legislative District No. 32 Representative Position No. 1
+------------------------------------------------------------
+    1. Cindy Ryu                                 8,123 ( 83.00%)
+    2. Lisa Rezac                                1,633 ( 16.69%)
+    3. Write-in                                     31 (  0.32%)
+   Total votes: 9,787
+
+Summary:
+Total races: 37
+Total votes cast across all races: 9,704,164
