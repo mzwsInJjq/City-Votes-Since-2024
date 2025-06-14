@@ -44,8 +44,8 @@ def print_race_results(race_votes):
             continue
         
         print(f"\n{race_number}. {race}")
-        print("-" * min(len(race) + 3, 80))
-        
+        print("-" * min(len(race) + len(str(race_number)) + 2, 80))
+
         # Sort candidates by vote count (highest first)
         sorted_candidates = sorted(candidates.items(), key=lambda x: x[1], reverse=True)
         
