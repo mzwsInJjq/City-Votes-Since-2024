@@ -2,12 +2,12 @@
 **Purpose:** This repo contains utility scripts for parsing and analyzing municipal voting records from 2024 onward.
 
 **Use case:** Intended for election enthusiasts and others tracking precinct-level vote trends.
-<p align="center">
-  <img src="images/vote_2024_1.png" height="200"/>
-  <img src="images/vote_2024_2.png" height="200"/>
-  <img src="images/vote_2024_3.png" height="200"/>
-  <img src="images/vote_2024_4.png" height="200"/>
-  <img src="images/vote_2025_1.png" height="200"/>
+<p align="left">
+  <img src="images/vote_2024_1.png" height="175"/>
+  <img src="images/vote_2024_2.png" height="175"/>
+  <img src="images/vote_2024_3.png" height="175"/>
+  <img src="images/vote_2024_4.png" height="175"/>
+  <img src="images/vote_2025_1.png" height="175"/>
 </p>
 
 ## Content: 
